@@ -14,4 +14,6 @@ Anaconda prompt: <br>
 pip install 다운받은 파일이름(여기서는 pygame-1.9.4-cp36-cp36m-win_amd64.whl)<br>
 pip install SimpleGUICS2Pygame<br>
 
+
+* atari breakout
 https://drive.google.com/open?id=1xIa9Ujw1FNKsLRjOg1nKvT3mwnB4mFu3
